@@ -1,0 +1,9 @@
+C:\Programas\PingMaps\bin\Debug\PingMaps.exe.config
+C:\Programas\PingMaps\bin\Debug\PingMaps.exe
+C:\Programas\PingMaps\bin\Debug\PingMaps.pdb
+C:\Programas\PingMaps\obj\Debug\PingMaps.csprojAssemblyReference.cache
+C:\Programas\PingMaps\obj\Debug\PingMaps.frmPingMaps.resources
+C:\Programas\PingMaps\obj\Debug\PingMaps.Properties.Resources.resources
+C:\Programas\PingMaps\obj\Debug\PingMaps.csproj.GenerateResource.cache
+C:\Programas\PingMaps\obj\Debug\PingMaps.exe
+C:\Programas\PingMaps\obj\Debug\PingMaps.pdb
